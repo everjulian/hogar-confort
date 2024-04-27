@@ -2,12 +2,14 @@ Hogar Confort
 ![image](https://github.com/everjulian/hogar-confort/assets/97122875/4b76a352-80b6-4803-a777-b7de105d9900)
 ![image](https://github.com/everjulian/hogar-confort/assets/97122875/e75905e9-aee1-4df9-83da-ae9046f11a94)
 
+
 Hogar Confort: Tu Destino para Muebles Excepcionales
 
 🛋️ Tienda de Muebles 🛍️
 
 ¡Bienvenido a Hogar Confort, donde encontrarás una exquisita selección de muebles para transformar tu hogar en un oasis de comodidad y estilo! Nuestra tienda en línea ha sido cuidadosamente diseñada utilizando Vue.js para ofrecerte una experiencia de compra sin igual. Descubre cómo nuestros componentes principales trabajan en armonía para hacer realidad tus sueños de decoración.
 
+[!NOTA]
 📄 Products.vue
 Descubre nuestra colección exclusiva de productos a través del componente Products.vue. Este componente, alimentado por datos provenientes de nuestro archivo JSON (data.json), te presenta una amplia variedad de muebles para cada rincón de tu hogar. Desde elegantes sofás hasta prácticas estanterías, encontrarás todo lo que necesitas para crear el ambiente perfecto.
 🃏 Card.vue
