@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "image/Sofa doble.jpeg",
+      "name": "Sofá moderno",
+      "price": "$1000",
+      "description": "Dsifurta con tu pareja "
+    },
+
+    {
+        "id": 2,
+        "image": "image/Lampara.jpeg",
+        "name": "Lámpara 54",
+        "price": "$1000",
+        "description": "Lo mejor  en lamparas"
+      },
+      {
+        "id": 3,
+        "image": "image/SofaIndividual.jpeg",
+        "name": "Sofa individual",
+        "price": "$1000",
+        "description": "Un cómodo sofá moderno para tu sala"
+      },
+      {
+        "id": 4,
+        "image": "image/SillaBlanca.jpeg",
+        "name": "Lámpara 54",
+        "price": "$1000",
+        "description": "Un cómodo silla moderno para tu estudio"
+      },
+      {
+        "id": 5,
+        "image": "image/Escritorio.jpeg",
+        "name": "Escritorio",
+        "price": "$800",
+        "description": "EL merjor para estudiar "
+      },
+      {
+        "id": 6,
+        "image": "image/Mueble.jpeg",
+        "name": "Mueble",
+        "price": "$500",
+        "description": "Lo mejor en muebles "
+      }
+  ]
