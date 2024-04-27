@@ -9,17 +9,17 @@ Hogar Confort: Tu Destino para Muebles Excepcionales
 
 ¡Bienvenido a Hogar Confort, donde encontrarás una exquisita selección de muebles para transformar tu hogar en un oasis de comodidad y estilo! Nuestra tienda en línea ha sido cuidadosamente diseñada utilizando Vue.js para ofrecerte una experiencia de compra sin igual. Descubre cómo nuestros componentes principales trabajan en armonía para hacer realidad tus sueños de decoración.
 
->[!NOTA]
+>[!NOTE]
 >Aqui tienes una nota importante 
 📄 Products.vue
 Descubre nuestra colección exclusiva de productos a través del componente Products.vue. Este componente, alimentado por datos provenientes de nuestro archivo JSON (data.json), te presenta una amplia variedad de muebles para cada rincón de tu hogar. Desde elegantes sofás hasta prácticas estanterías, encontrarás todo lo que necesitas para crear el ambiente perfecto.
 
->[!NOTA]
+>[!NOTE]
 >Aqui tienes una nota importante 
 🃏 Card.vue
 Sumérgete en los detalles de cada artículo gracias al componente Card.vue. Cada tarjeta de producto está diseñada para ofrecerte una vista detallada, con imágenes nítidas, descripciones precisas y precios transparentes. Además, disfruta de animaciones cautivadoras y efectos visuales sorprendentes que hacen que la experiencia de compra sea aún más emocionante.
 
->[!NOTA]
+>[!NOTE]
 >Aqui tienes una nota importante 
 🔲 Grid.vue
 Nuestro componente Grid.vue garantiza que la presentación de los productos sea impecable en cualquier dispositivo. Con una disposición adaptable, la cuadrícula de productos se ajusta automáticamente para brindarte la mejor experiencia de usuario, ya sea que estés navegando desde tu computadora de escritorio o tu teléfono móvil.
