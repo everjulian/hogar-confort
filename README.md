@@ -12,8 +12,10 @@ Hogar Confort: Tu Destino para Muebles Excepcionales
 >[!NOTA]
 📄 Products.vue
 Descubre nuestra colección exclusiva de productos a través del componente Products.vue. Este componente, alimentado por datos provenientes de nuestro archivo JSON (data.json), te presenta una amplia variedad de muebles para cada rincón de tu hogar. Desde elegantes sofás hasta prácticas estanterías, encontrarás todo lo que necesitas para crear el ambiente perfecto.
+>[!NOTA]
 🃏 Card.vue
 Sumérgete en los detalles de cada artículo gracias al componente Card.vue. Cada tarjeta de producto está diseñada para ofrecerte una vista detallada, con imágenes nítidas, descripciones precisas y precios transparentes. Además, disfruta de animaciones cautivadoras y efectos visuales sorprendentes que hacen que la experiencia de compra sea aún más emocionante.
+>>[!NOTA]
 🔲 Grid.vue
 Nuestro componente Grid.vue garantiza que la presentación de los productos sea impecable en cualquier dispositivo. Con una disposición adaptable, la cuadrícula de productos se ajusta automáticamente para brindarte la mejor experiencia de usuario, ya sea que estés navegando desde tu computadora de escritorio o tu teléfono móvil.
 🚀 Instalación y Ejecución
