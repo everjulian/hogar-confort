@@ -29,7 +29,10 @@ Nuestro componente Grid.vue garantiza que la presentación de los productos sea 
 
 🚀 Instalación y Ejecución
 Para sumergirte en el mundo de Hogar Confort, sigue estos simples pasos:
->[!TIP]
+
+
+>[!WARNING]
+>No te olvides de esto 
 
 
 📥 Clona nuestro repositorio en tu máquina local.
@@ -41,6 +44,9 @@ arduino
 
 
 🚀 Inicia el servidor de desarrollo con npm run serve.
+
+>[!TIP]
+>Esto podara ayudarte a ejecutar el proyecto
 
 🌐 Visita http://localhost:8080 en tu navegador y disfruta de la experiencia.
 Explora nuestra amplia selección de muebles y déjate inspirar para crear espacios que reflejen tu estilo único. ¡En Hogar Confort, tu comodidad y satisfacción son nuestra máxima prioridad! 🛋️🛍️ ¿Preguntas o sugerencias? ¡Estamos aquí para ayudarte!
