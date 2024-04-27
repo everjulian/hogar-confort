@@ -46,7 +46,7 @@ arduino
 🚀 Inicia el servidor de desarrollo con npm run serve.
 
 >[!TIP]
->Esto podara ayudarte a ejecutar el proyecto
+>Verifica el puerto 
 
 🌐 Visita http://localhost:8080 en tu navegador y disfruta de la experiencia.
 Explora nuestra amplia selección de muebles y déjate inspirar para crear espacios que reflejen tu estilo único. ¡En Hogar Confort, tu comodidad y satisfacción son nuestra máxima prioridad! 🛋️🛍️ ¿Preguntas o sugerencias? ¡Estamos aquí para ayudarte!
