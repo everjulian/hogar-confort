@@ -1,8 +1,10 @@
+<!-- Content to create cards. -->
 <template>
   <div class="product-card">
     <div class="card-image">
       <img :src="product.image" :alt="product.name">
     </div>
+    <!-- Here we call the data from the data.json file. -->
     <div class="card-content">
       <h3>{{ product.name }}</h3>
       <p>{{ product.description }}</p>
@@ -12,11 +14,13 @@
 </template>
 
 <script>
+//Receive the product object.
 export default {
   props: ['product']
 }
 </script>
 
+<!-- Styles for the cards. -->
 <style>
 .product-card {
   background-color: #fff;
@@ -33,7 +37,7 @@ export default {
 
 .card-image {
   position: relative;
-  padding-bottom: 60%; /* Proporción de aspecto 16:9 */
+  padding-bottom: 60%; 
   overflow: hidden;
 }
 

@@ -1,3 +1,4 @@
+<!-- Here is the main content. -->
 <template>
   <div>
     <h1>Listado de productos</h1>
@@ -7,6 +8,7 @@
   </div>
 </template>
 
+<!-- Import of the components CardList, GridList, data.json. -->
 <script>
 import Card from './CardList';
 import Grid from './GridList';

@@ -1,5 +1,7 @@
 <template>
+  <!-- Here is the main content. -->
   <div class="container">
+    <!-- Navigation bar content. -->
     <nav class="sidebar">
       <div class="nav-header">
         <h2>Categorías</h2>
@@ -13,12 +15,14 @@
         <li><a href="#" class="nav-link">Contacto</a></li>
       </ul>
     </nav>
+    <!-- With this, I proceed to display products.  -->
     <main class="main-content">
       <Products />
     </main>
   </div>
 </template>
 
+<!-- Import of ProductsList. -->
 <script>
 import Products from './components/ProductsList';
 
@@ -30,11 +34,19 @@ export default {
 </script>
 
 <style>
-/* Estilos generales */
+
+/* General styles. */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
+}
+
+/* Styles for the main content */
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: #f5f5f5;
 }
 
 .container {
@@ -42,7 +54,7 @@ body {
   min-height: 100vh;
 }
 
-/* Estilos para la barra de navegación lateral */
+/* Styles for the sidebar navigation. */
 .sidebar {
   background-color: #333;
   color: #fff;
@@ -98,10 +110,5 @@ body {
   background-color: #777;
 }
 
-/* Estilos para el contenido principal */
-.main-content {
-  flex-grow: 1;
-  padding: 20px;
-  background-color: #f5f5f5;
-}
+
 </style>

@@ -1,9 +1,13 @@
+<!-- Grid content.  -->
 <template>
   <div class="grid-container">
-    <slot></slot>
+<!-- With slot, we can insert content.  -->
+    <slot>
+    </slot>
   </div>
 </template>
 
+<!--Component styles.  -->
 <style scoped>
 .grid-container {
   display: grid;
@@ -19,6 +23,7 @@
   object-fit: contain;
 }
 
+/* Responsive styles.*/
 @media (max-width: 768px) {
   .grid-container {
     grid-template-columns: 1fr;
