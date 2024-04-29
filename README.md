@@ -9,20 +9,6 @@ Hogar Confort: Tu Destino para Muebles Excepcionales
 
 ¡Bienvenido a Hogar Confort, donde encontrarás una exquisita selección de muebles para transformar tu hogar en un oasis de comodidad y estilo! Nuestra tienda en línea ha sido cuidadosamente diseñada utilizando Vue.js para ofrecerte una experiencia de compra sin igual. Descubre cómo nuestros componentes principales trabajan en armonía para hacer realidad tus sueños de decoración.
 
->[!NOTE]
->Aqui tienes una nota importante 
-📄 Products.vue
-Descubre nuestra colección exclusiva de productos a través del componente Products.vue. Este componente, alimentado por datos provenientes de nuestro archivo JSON (data.json), te presenta una amplia variedad de muebles para cada rincón de tu hogar. Desde elegantes sofás hasta prácticas estanterías, encontrarás todo lo que necesitas para crear el ambiente perfecto.
-
->[!NOTE]
->Aqui tienes una nota importante 
-🃏 Card.vue
-Sumérgete en los detalles de cada artículo gracias al componente Card.vue. Cada tarjeta de producto está diseñada para ofrecerte una vista detallada, con imágenes nítidas, descripciones precisas y precios transparentes. Además, disfruta de animaciones cautivadoras y efectos visuales sorprendentes que hacen que la experiencia de compra sea aún más emocionante.
-
->[!NOTE]
->Aqui tienes una nota importante 
-🔲 Grid.vue
-Nuestro componente Grid.vue garantiza que la presentación de los productos sea impecable en cualquier dispositivo. Con una disposición adaptable, la cuadrícula de productos se ajusta automáticamente para brindarte la mejor experiencia de usuario, ya sea que estés navegando desde tu computadora de escritorio o tu teléfono móvil.
 
 >[!IMPORTANT]
 >Esto te puede ayudar
@@ -59,20 +45,6 @@ Home Comfort: Your Destination for Exceptional Furniture
 
 Welcome to Home Comfort, where you'll find an exquisite selection of furniture to transform your home into an oasis of comfort and style! Our online store has been carefully designed using Vue.js to offer you an unparalleled shopping experience. Discover how our core components work in harmony to bring your decoration dreams to life.
 
->[!NOTE]
->Here's an important note 
-📄 Products.vue
-Explore our exclusive collection of products through the Products.vue component. This component, powered by data from our JSON file (data.json), presents you with a wide variety of furniture for every corner of your home. From elegant sofas to practical shelves, you'll find everything you need to create the perfect ambiance.
-
->[!NOTE]
->Here's an important note 
-🃏 Card.vue
-Dive into the details of each item thanks to the Card.vue component. Each product card is designed to provide you with a detailed view, with crisp images, precise descriptions, and transparent prices. Plus, enjoy captivating animations and stunning visual effects that make the shopping experience even more exciting.
-
->[!NOTE]
->Here's an important note 
-🔲 Grid.vue
-Our Grid.vue component ensures that the presentation of products is flawless on any device. With an adaptable layout, the product grid adjusts automatically to provide you with the best user experience, whether you're browsing from your desktop computer or your mobile phone.
 
 >[!IMPORTANT]
 >This can help you
